@@ -4,13 +4,28 @@
   "description": "this will be sooooo cool",
   "main": "index.js",
   "scripts": {
+		"start": "node index.js",
     "test": "jest --verbose --coverage",
-    "lint": "eslint '**/*.js'"
+		"lint": "eslint '**/*.js'",
+		"jsdoc": "jsdoc -c ./doc/config/jsdoc.config.json"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "eslint": "^6.1.0",
     "jest": "^24.8.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colosrjones-401d4/lab-01.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/colosrjones-401d4/lab-01/issues"
+  },
+  "homepage": "https://github.com/colosrjones-401d4/lab-01#readme",
+  "devDependencies": {}
 }
