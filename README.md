@@ -1,19 +1,19 @@
 # LAB - 01
 
-## Deployment Tutorial
+## Deployment
 
 ### Author: STEVEN JONES
 
 ### Links and Resources
-* [submission PR](https://github.com/colosrjones-401d4/lab-00)
-* [travis](https://travis-ci.com/colosrjones-401d4/lab-00)
+* [submission PR](https://github.com/colosrjones-401d4/lab-01)
+* [travis](https://travis-ci.org/colosrjones-401d4/lab-01)
 * [front-end](https://lab00401d4.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://lab00401d4.herokuapp.com/docs/)
 
 ### Modules
-#### `pol.js`
+#### `validator.js`
 ##### Exported Values and Methods
 
 ###### `isAlive(dead) -> boolean`
