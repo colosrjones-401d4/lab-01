@@ -3,7 +3,7 @@ node_js:
   - "stable"
 branches:
   only:
-    - master
+    - lab01
 script:
   - npm test
   - npm run lint
