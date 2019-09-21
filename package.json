@@ -1,7 +1,6 @@
 {
   "name": "dsa",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage --verbose",
@@ -10,6 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^24.5.0"
-  }
+    "jest": "^24.9.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colosrjones-401d4/lab-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colosrjones-401d4/lab-01/issues"
+  },
+  "homepage": "https://github.com/colosrjones-401d4/lab-01#readme",
+  "description": ""
 }
