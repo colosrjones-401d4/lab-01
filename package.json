@@ -1,12 +1,12 @@
 {
   "name": "lab-01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
+    "lint": "^0.7.0",
     "node": "^12.10.0"
   },
   "devDependencies": {},
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/colosrjones-401d4/lab-01/issues"
   },
-  "homepage": "https://github.com/colosrjones-401d4/lab-01#readme"
+  "homepage": "https://github.com/colosrjones-401d4/lab-01#readme",
+  "description": ""
 }
