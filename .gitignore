@@ -5,6 +5,7 @@ temp
 data
 .env 
 *.env
+coverage
 
 ### Vim ###
 # swap

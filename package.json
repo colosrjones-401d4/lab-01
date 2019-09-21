@@ -1,20 +1,10 @@
 {
   "name": "01-node-ecosystem",
   "version": "0.0.1",
-  "description": "this will be sooooo cool",
+  "description": "this is node",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose --coverage",
+    "test": "jest",
     "lint": "eslint '**/*.js'"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "eslint": "^6.1.0",
-    "jest": "^24.9.0"
-  },
-  "directories": {
-    "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
