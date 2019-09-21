@@ -1,3 +1,4 @@
+
 # LAB - 01
 
 ## Deployment
@@ -41,3 +42,4 @@ The isAlive() method returns a boolean based on the arg sent in.
 #### UML
 
 ![UML Diagram](whiteboard.jpg)
+
